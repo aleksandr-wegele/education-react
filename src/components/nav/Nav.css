@@ -1,0 +1,42 @@
+.nav {
+  width: 200px;
+
+}
+
+.nav__wraper {}
+
+.nav__list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav__list-item {
+  margin-top: 8px;
+}
+
+.nav__list-link {
+  text-decoration: none;
+  color: #000000;
+  position: relative;
+}
+
+.nav__list-link:hover {
+  color: #205588
+}
+
+.nav__list-link:after {
+  position: absolute;
+  content: "";
+  width: 0;
+  height: 1px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #205588;
+  transition: all 0.2s;
+}
+
+.nav__list-link:hover:after {
+  width: 100%;
+}

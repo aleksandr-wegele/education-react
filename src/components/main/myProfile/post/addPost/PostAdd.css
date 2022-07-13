@@ -1,0 +1,14 @@
+.post__add {
+  border-bottom: 1px solid #c4c4c4;
+  padding-bottom: 30px;
+}
+
+.post__add-headding {}
+
+.post__add-value {
+  resize: none;
+  width: 600px;
+  height: 150px;
+}
+
+.post__add-btn {}

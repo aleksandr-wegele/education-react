@@ -1,0 +1,18 @@
+.contacts {
+  width: 200px;
+  height: 600px;
+  overflow-y: scroll;
+  border-right: 1px solid #c4c4c4;
+  padding-right: 15px;
+}
+
+.contacts::-webkit-scrollbar {
+  width: 3px;
+  background-color: #535353;
+  border-radius: 15px;
+}
+
+.contacts::-webkit-scrollbar-thumb {
+  background-color: #5ab2f5;
+  border-radius: 15px;
+}

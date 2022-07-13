@@ -1,0 +1,21 @@
+.message__in {
+  padding: 5px 10px;
+  display: flex;
+  flex-direction: column;
+  margin: 10px 5px;
+  max-width: 300px;
+  background: rgba(57, 97, 102, 0.5);
+  border-radius: 15px;
+}
+
+.messages__userName {
+  color: #324963;
+  font-weight: bold;
+  font-size: 12px;
+  margin: 3px 0;
+}
+
+.message__enter {
+  color: #000000;
+  font-size: 12px;
+}

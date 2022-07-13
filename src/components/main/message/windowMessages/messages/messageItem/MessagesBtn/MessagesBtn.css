@@ -1,0 +1,13 @@
+.message__btn {
+  float: right;
+  padding-right: 20px;
+}
+
+.message__btn-form {
+  border: 1px solid #2f4b86;
+  border-radius: 10px;
+  background-color: #2f4b86;
+  color: aliceblue;
+  height: 30px;
+  cursor: pointer;
+}

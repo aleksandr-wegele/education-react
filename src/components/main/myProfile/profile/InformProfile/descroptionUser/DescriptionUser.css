@@ -1,0 +1,74 @@
+.profile__description {
+  display: flex;
+  flex-direction: column;
+}
+
+.profile__description-name {
+  display: inline;
+  margin: 0;
+  margin-left: 30px;
+  margin-bottom: 15px;
+}
+
+.profile__description-birth {
+  display: inline;
+  margin: 0;
+  margin-left: 5px;
+  font-weight: normal;
+
+}
+
+.profile__description-city {
+  display: inline;
+  margin: 0;
+  margin-left: 5px;
+  font-weight: normal;
+
+}
+
+.profile__description-education {
+  display: inline;
+  margin: 0;
+  margin-left: 5px;
+  font-weight: normal;
+
+}
+
+.profile__description-web-site {
+  display: inline;
+  margin: 0;
+  margin-left: 5px;
+  font-weight: normal;
+
+}
+
+.profile__description-web-site_link {
+  display: inline;
+  margin: 0;
+  font-weight: normal;
+
+}
+
+.description-birth {
+  margin: 0;
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+.description-city {
+  margin: 0;
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+.description-educetion {
+  margin: 0;
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+.description-web-site {
+  margin: 0;
+  margin-left: 30px;
+  margin-top: 5px;
+}

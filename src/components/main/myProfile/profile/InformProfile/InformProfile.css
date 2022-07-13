@@ -1,0 +1,7 @@
+.inform-profile {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  align-content: center;
+
+}

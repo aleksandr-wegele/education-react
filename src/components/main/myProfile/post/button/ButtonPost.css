@@ -1,0 +1,25 @@
+.post__btn {
+  margin-top: 15px;
+}
+
+.post__btn-like {
+  background-image: url('../../../../img/post/like.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 20px;
+  height: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.post__btn-dislike {
+  background-image: url('../../../../img/post/dislike.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 20px;
+  height: 20px;
+  border: none;
+  cursor: pointer;
+  margin-left: 20px;
+
+}

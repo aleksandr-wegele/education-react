@@ -1,0 +1,14 @@
+.main {
+  background-color: #ffffff;
+  width: 700px;
+  border-radius: 10px;
+  background-image: url('../img/user-bar-main.jpeg');
+  background-repeat: no-repeat;
+  background-size: 700px 150px;
+}
+
+.main-content {
+  padding-top: 180px;
+  padding-left: 30px;
+  padding-right: 30px;
+}

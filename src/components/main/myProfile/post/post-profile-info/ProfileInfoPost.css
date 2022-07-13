@@ -1,0 +1,14 @@
+.post__header {
+  display: flex;
+  align-items: center;
+}
+
+.post__avatar {
+  width: 60px;
+  border-radius: 50%;
+}
+
+.post__user-description {
+  margin-left: 20px;
+  color: #324963;
+}

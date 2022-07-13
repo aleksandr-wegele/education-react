@@ -1,0 +1,9 @@
+.avatar {
+  width: 150px;
+
+}
+
+.avatar__user {
+  width: 150px;
+  border-radius: 50%;
+}

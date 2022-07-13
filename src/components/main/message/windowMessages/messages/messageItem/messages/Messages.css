@@ -1,0 +1,17 @@
+.message__window {
+  display: flex;
+  flex-direction: column;
+  height: 400px;
+  overflow-y: scroll;
+}
+
+.message__window::-webkit-scrollbar {
+  width: 3px;
+  background-color: #535353;
+  border-radius: 15px;
+}
+
+.message__window::-webkit-scrollbar-thumb {
+  background-color: #5ab2f5;
+  border-radius: 15px;
+}
